@@ -1,0 +1,43 @@
+{
+    "FantasyTeams": [
+        {
+            "TeamName": "Vancouver Canucks",
+            "Players": [
+                {
+                    "Assists": 40,
+                    "PlayerTeam": "Vancouver Canucks",
+                    "PlayerName": "Elias Pettersson",
+                    "Goals": 40,
+                    "PenaltyMinutes": 45
+                },
+                {
+                    "Assists": 80,
+                    "PlayerTeam": "Vancouver Canucks",
+                    "PlayerName": "Quinn Hughes",
+                    "Goals": 20,
+                    "PenaltyMinutes": 30
+                }
+            ]
+        },
+        {
+            "TeamName": "Calgary Flames",
+            "Players": [
+                {
+                    "Assists": 20,
+                    "PlayerTeam": "Calgary Flames",
+                    "PlayerName": "Nazem Kadri",
+                    "Goals": 20,
+                    "PenaltyMinutes": 100
+                },
+                {
+                    "Assists": 30,
+                    "PlayerTeam": "Calgary Flames",
+                    "PlayerName": "Jonathan Huberdeau",
+                    "Goals": 10,
+                    "PenaltyMinutes": 10
+                }
+            ]
+        }
+    ],
+    "NameOfPool": "2020/21 Hockey Fantasy Pool"
+}
